@@ -76,7 +76,7 @@ void delete_city()
 {
 	int city_num = find_city(name);
 	if (city_num == -1)
-	{
+	{ 
 		cout << "failed to delete!not exist!" << endl;
 		return;
 	}
