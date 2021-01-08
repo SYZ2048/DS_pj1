@@ -1,0 +1,29 @@
+1
+Beijing
+1
+New York
+1
+Shanghai
+3
+0
+Beijing
+New York
+11:00
+12:00
+1000
+3
+0
+Beijing
+Shanghai
+11:00
+12:00
+200
+3
+0
+Shanghai
+New York
+11:00
+12:00
+700
+5
+Beijing
